@@ -1,0 +1,2 @@
+Enable Nuget Restore in Visual Studio to download all the nuget packages before building the application.
+The compiled dlls are left as such in Habanero.Tests\bin\Debug and Habanero.Web\bin so that those could be tested without compiling it again.
